@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341745983462",
+    "project_id": "securitas-c8d29",
+    "storage_bucket": "securitas-c8d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341745983462:android:31c85ecffc601d71590027",
+        "android_client_info": {
+          "package_name": "com.example.securitas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_-8yoHHctiA5u6ZWD847Aw9V7IKnINo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
